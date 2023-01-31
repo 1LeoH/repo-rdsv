@@ -3,23 +3,23 @@ entries:
   accesschart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-26T19:07:11.72400686+01:00"
+    created: "2023-01-31T08:04:28.890513026+01:00"
     description: A Helm chart for Kubernetes
-    digest: 9f0879b2e203793ad9d37aeec7f36ba37677c1142d103a0122639e6f22748e39
+    digest: 75ef3424d8dfbc29b4097a394ca0d42ad040aeb742c0db595ff309bb3725a88a
     name: accesschart
     type: application
     urls:
-    - https://1LeoH-git.github.io/repo-rdsv/accesschart-0.1.0.tgz
+    - https://1LeoH.github.io/repo-rdsv/accesschart-0.1.0.tgz
     version: 0.1.0
   cpechart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-26T19:07:11.72480936+01:00"
+    created: "2023-01-31T08:04:28.89139267+01:00"
     description: A Helm chart for Kubernetes
-    digest: fc490a0bda9f85187ac866983550ea2a4309d295c451edd98457ea2bf413d815
+    digest: 53f0d243a97fb0b6b431ef82f1ca9fda96b7b0383c369d7585d8c785204e649f
     name: cpechart
     type: application
     urls:
-    - https://1LeoH-git.github.io/repo-rdsv/cpechart-0.1.0.tgz
+    - https://1LeoH.github.io/repo-rdsv/cpechart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-26T19:07:11.722906467+01:00"
+generated: "2023-01-31T08:04:28.889436877+01:00"
